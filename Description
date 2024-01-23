@@ -1,0 +1,11 @@
+MOVIE-DATA_VISUALIZATION
+Este projeto tem como objetivo realizar visualizações de dados a partir da tabela "MOVIE" criada no SQL.
+A tabela "MOVIE" contém informações sobre os 100 filmes de maior bilheteria, abrangendo detalhes como o nome do filme, 
+ano de lançamento, receita de bilheteria, orçamento, diretor e estúdio de produção.
+
+--------------------------------------------------------------------------------------------
+
+MOVIE-DATA_VISUALIZATION
+This project aims to perform data visualizations based on the "MOVIE" table created in SQL.
+The "MOVIE" table contains information about the top 100 highest-grossing films, encompassing details such as the movie's name,
+release year, box office revenue, budget, director, and production studio.
